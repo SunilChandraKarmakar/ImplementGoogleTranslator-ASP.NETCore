@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31710.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementGoogoleTranslator", "ImplementGoogoleTranslator\ImplementGoogoleTranslator.csproj", "{4E9F7400-D1FF-4626-82D5-A77BFF0451AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E9F7400-D1FF-4626-82D5-A77BFF0451AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9F7400-D1FF-4626-82D5-A77BFF0451AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9F7400-D1FF-4626-82D5-A77BFF0451AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9F7400-D1FF-4626-82D5-A77BFF0451AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334F23A5-D5B7-4939-8F39-948635FE247B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5CUsactArXMlt7//AJmQrOOMdFwsKW3OVcDL+cPjdcb89tTl4VLyi+AUf7ajpavfzaZK8qLw+1YePztQIrD5uQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# - Work\\ImplementGoogleTranslator-ASP.NETCore\\ImplementGoogoleTranslator\\ImplementGoogoleTranslator\\ImplementGoogoleTranslator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sunil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
